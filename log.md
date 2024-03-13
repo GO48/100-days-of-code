@@ -24,7 +24,7 @@
 ### Day 2: March 12, 2024
 
 **Today's Progress**:
-- Today I build bootcamp solo project in module 2 Inspirational Quote Page.
+- Today I build scrimba bootcamp solo project in module 2 Inspirational Quote Page.
 - Hopefully tmr I can build bootcamp solo project in module 3.
 
 **Thoughts:**
