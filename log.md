@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: xx xx, xxxx
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Today I learned/built ...
+- Hopefully this week I can ...
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
+- Share takeaways and highlights about what you’re learning & building
+- Learning challenges and wins
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: March 11, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Today I review my notes and projects in module 1-4 and some updated materials.
+- Hopefully tmr I can build bootcamp solo project in module 2 and 3.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
+- Took longer than I thought especially reviewing the projects.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: March 12, 2024
 
+**Today's Progress**:
+- Today I build bootcamp solo project in module 2 Inspirational Quote Page.
+- Hopefully tmr I can build bootcamp solo project in module 3.
 
-### Day 1: June 27, Monday
+**Thoughts:**
+- Really enjoyed using all the tricks and great practice I learned so far.
+- Tried my best to make the page responsive, maybe should go back after learning module 4.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** https://github.com/GO48/Inspirational-Quote
