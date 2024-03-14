@@ -32,3 +32,13 @@
 - Tried my best to make the page responsive, maybe should go back after learning module 4.
 
 **Link to work:** https://github.com/GO48/Inspirational-Quote
+
+### Day 3: March 13, 2024
+
+**Today's Progress**:
+- Today I reviewed and updated my old solo project in module 2 city home page.
+
+**Thoughts:**
+- No much time and energy today, but at least some progress.
+
+**Link to work:** https://scrimba.com/scrim/co991493cbaaa6f20e2ec8069
