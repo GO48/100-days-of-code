@@ -52,14 +52,24 @@
 **Thoughts:**
 - Felt satisfied and tired.
 
-**Link to work:** https://simple-drink-counter.netlify.app/ https://scrimba.com/scrim/co883474c8df25e4a2d84842b
+**Link to work:** 
+- https://simple-drink-counter.netlify.app/ 
+- https://scrimba.com/scrim/co883474c8df25e4a2d84842b
 
 ### Day 5: March 15, 2024
 
 **Today's Progress**:
 - Today I built the basic part of module 3 bootcamp solo project: Salesboard.
 
-**Thoughts:**
-- Felt satisfied and tired.
-
 **Link to work:** https://scrimba.com/scrim/caJakvHM?a=340.0.1.L12_109
+
+### Day 6: March 16, 2024
+
+**Today's Progress**:
+- Today I updated project Salesboard, add dark/light Theme Toggle and store/reset data in localstorage.
+
+**Thoughts:**
+- I got the job done in less than 2 hr. I 'm getting better at coding!
+
+**Link to work:** 
+https://scrimba.com/scrim/caJakvHM?a=507.0.9.L46_4
