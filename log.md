@@ -69,7 +69,17 @@
 - Today I updated project Salesboard, add dark/light Theme Toggle and store/reset data in localstorage.
 
 **Thoughts:**
-- I got the job done in less than 2 hr. I 'm getting better at coding!
+- I got it done in less than 2 hr. I 'm getting better at coding!
 
 **Link to work:** 
 https://scrimba.com/scrim/caJakvHM?a=507.0.9.L46_4
+
+### Day 7: March 18, 2024
+
+**Today's Progress**:
+- Today I 
+
+**Thoughts:**
+- 
+
+**Link to work:** 
