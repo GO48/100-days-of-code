@@ -77,9 +77,19 @@ https://scrimba.com/scrim/caJakvHM?a=507.0.9.L46_4
 ### Day 7: March 18, 2024
 
 **Today's Progress**:
-- Today I 
+- Today I update project Salesboard, increased UX and accessibility, also make “flash of incorrect theme” as less obvious as possible. 
+- And I started another module 3 solo project Endorsements. I'll practise Firebase Realtime Database.
 
 **Thoughts:**
-- 
+- FOIT is a tinny but annoy problem. I'll give another try using other approch like media query when I finished module 6.
 
 **Link to work:** 
+https://github.com/GO48/salesboard
+
+### Day 8: March 20, 2024
+
+**Today's Progress**:
+- Today I finished the layout&style part of project Endorsements.
+- Also refresh my knowlege about Firebase Realtime Database that I'll practise to this project.
+
+**Link to work:** https://scrimba.com/scrim/cQn4pEC8?a=256.0.1.L4_7
