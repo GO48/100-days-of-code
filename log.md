@@ -86,10 +86,37 @@ https://scrimba.com/scrim/caJakvHM?a=507.0.9.L46_4
 **Link to work:** 
 https://github.com/GO48/salesboard
 
-### Day 8: March 20, 2024
+### Day 8: March 20
 
 **Today's Progress**:
 - Today I finished the layout&style part of project Endorsements.
 - Also refresh my knowlege about Firebase Realtime Database that I'll practise to this project.
 
 **Link to work:** https://scrimba.com/scrim/cQn4pEC8?a=256.0.1.L4_7
+
+### Day 9: March 21
+
+**Today's Progress**:
+- Working on Project Endorsements, complete tasks: write into database; update in realtime. 
+- Todo: put the newest post on the top; add "likes" feature.
+
+**Thoughts:**
+- Have to get used to read the firbase document, and figure out how to set specific item in database. Challenge but intersting!
+
+### Day 10: March 22
+
+**Today's Progress**:
+- Working on Project Endorsements, complete tasks: put the newest post on the top; add "likes" feature.
+- Todo: refactor html practise form and submit button; use localStorage prevent user like the same post more than once
+
+**Thoughts:**
+- Feel stupid, console not working turns out I used filter and forget.
+- Read other student's code to know how to use firebase update.
+
+### Day 11: March 23
+
+**Today's Progress**:
+- Working on Project Endorsements, complete tasks: use localStorage to prevent users like the same post more than once; make css dryer; improve UX and accessibility
+
+**Thoughts:**
+- Thought about using form tags to required users to input but don't want to deal with form action, so add alert in js instead
