@@ -120,3 +120,28 @@ https://github.com/GO48/salesboard
 
 **Thoughts:**
 - Thought about using form tags to required users to input but don't want to deal with form action, so add alert in js instead
+
+### Day 12: March 25
+
+**Today's Progress**:
+- Working on the last module 3 project choreslist, almost completed. Todo: make the list unduplicated; click on individual chores to remove from list; show a random gif when all chores are completed
+
+**Thoughts:**
+- Too tired to work and this simple project is a good one to start the week.
+
+### Day 13: March 26
+
+**Today's Progress**:
+- Complete project Choreslist todos.
+- Improve project Endorsements based on review suggestion, make js code more commented and organized.
+- TMR todos: learn and apply modal boxes as notification for project Choreslist and Endorsements.
+
+### Day 14: March 27
+
+**Today's Progress**:
+- Practise modal boxes in project Choreslist.
+- For project Endorsements: Instead of throwing alert, make use of required attribute of form tags, also cancle form's default action in js.
+- Study how to sanitize third-party content if use innerHTML. Manually creating markup is safe, but sometimes it's a LOT of code.
+- Refactor the code using innerHTML and cleanHTML.js 
+
+Recommend blog: https://gomakethings.com/how-to-sanitize-third-party-content-with-vanilla-js-to-prevent-cross-site-scripting-xss-attacks/
