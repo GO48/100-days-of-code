@@ -139,9 +139,30 @@ https://github.com/GO48/salesboard
 ### Day 14: March 27
 
 **Today's Progress**:
-- Practise modal boxes in project Choreslist.
-- For project Endorsements: Instead of throwing alert, make use of required attribute of form tags, also cancle form's default action in js.
-- Study how to sanitize third-party content if use innerHTML. Manually creating markup is safe, but sometimes it's a LOT of code.
-- Refactor the code using innerHTML and cleanHTML.js 
+- Project Choreslist: implement modal box
+- Project Endorsements: Instead of throwing alert, make use of required attribute of form tags, also cancle form's default action in js.
+- Refactor js with innerHTML and cleanHTML.js (sanitize third-party content) Manually creating markup is safe, but sometimes it's a LOT of code.
 
 Recommend blog: https://gomakethings.com/how-to-sanitize-third-party-content-with-vanilla-js-to-prevent-cross-site-scripting-xss-attacks/
+
+### Day 15: March 29
+
+**Today's Progress**:
+- Start module 4 solo project BestBank, finished the layout&style part. 
+-  I'll learn and implement  animation effect in this project.
+
+**Link to work:** https://github.com/GO48/BestBank
+
+### Day 16: March 31
+
+**Today's Progress**:
+- Project BestBank, completed: fetch data from js; click on account to change view. Todo: refactor css; better hover affect.
+
+### Day 17: April 1
+**Today's Progress**:
+- Complete BestBank and submit for reviewing.
+- Start learning Module 5
+
+**Link to work:** https://scrimba.com/scrim/c4vWWguv
+
+
